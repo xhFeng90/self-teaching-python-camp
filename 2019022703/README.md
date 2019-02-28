@@ -1,6 +1,5 @@
 # 2019022703班
 ## 辅导员
-
 ## 教练
 
 [srvz](https://github.com/srvz)
