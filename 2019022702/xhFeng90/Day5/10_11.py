@@ -1,7 +1,7 @@
 #10 用字符串切片的方式取出’Hello, World!’ 中第三到第八个字符(包含第三和第八个字符)。
 
 s_new = 'Hello, World!'
-s10 = s_new[2:7]
+s10 = s_new[2:8]
 print(s10)
 
 #11 将 'Hello, World!' 进行反转，输出结果 '!dlroW ,olleH'
